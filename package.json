@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "nodejs": "^0.0.0"
+  },
+  "name": "B11223214-Lab-Pan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kaminzhi/B11223214-Lab-Pan.git",
+  "author": "kaminzhi <issac20050710@gmail.com>",
+  "license": "MIT"
+}
